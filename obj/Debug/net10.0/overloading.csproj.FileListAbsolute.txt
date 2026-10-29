@@ -1,0 +1,14 @@
+C:\ISMT C#\overloading\bin\Debug\net10.0\overloading.exe
+C:\ISMT C#\overloading\bin\Debug\net10.0\overloading.deps.json
+C:\ISMT C#\overloading\bin\Debug\net10.0\overloading.runtimeconfig.json
+C:\ISMT C#\overloading\bin\Debug\net10.0\overloading.dll
+C:\ISMT C#\overloading\bin\Debug\net10.0\overloading.pdb
+C:\ISMT C#\overloading\obj\Debug\net10.0\overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\ISMT C#\overloading\obj\Debug\net10.0\overloading.AssemblyInfoInputs.cache
+C:\ISMT C#\overloading\obj\Debug\net10.0\overloading.AssemblyInfo.cs
+C:\ISMT C#\overloading\obj\Debug\net10.0\overloading.csproj.CoreCompileInputs.cache
+C:\ISMT C#\overloading\obj\Debug\net10.0\overloading.dll
+C:\ISMT C#\overloading\obj\Debug\net10.0\refint\overloading.dll
+C:\ISMT C#\overloading\obj\Debug\net10.0\overloading.pdb
+C:\ISMT C#\overloading\obj\Debug\net10.0\overloading.genruntimeconfig.cache
+C:\ISMT C#\overloading\obj\Debug\net10.0\ref\overloading.dll
